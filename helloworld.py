@@ -1,6 +1,6 @@
 def hello():
     print("Hello World")
-    print("Version 1.0")
+    print("This is a new branch. Version 2.0")
 
 
 if __name__ == "__main__":
